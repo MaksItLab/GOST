@@ -1,7 +1,4 @@
-﻿using System;
-
-
-
+﻿
 // Пример использования
 byte[] key = new byte[32]; // 256-битный ключ
 new Random().NextBytes(key); // Генерация случайного ключа
